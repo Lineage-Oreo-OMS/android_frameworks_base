@@ -2060,4 +2060,7 @@
     <!-- VoLte icon switch -->
     <string name="status_bar_volte">VoLTE</string>
 
+    <!-- Tuner hide icons -->
+    <string name="status_bar_vpn">VPN</string>
+
 </resources>
