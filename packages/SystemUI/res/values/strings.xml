@@ -2062,5 +2062,6 @@
 
     <!-- Tuner hide icons -->
     <string name="status_bar_vpn">VPN</string>
+    <string name="status_bar_roaming">Roaming</string>
 
 </resources>
